@@ -1,45 +1,39 @@
 # ScalleX 🚀
 
-ScalleX é uma landing page moderna desenvolvida para apresentação de solução digital com foco em performance, conversão e experiência do usuário.
+ScalleX é uma landing page moderna desenvolvida para apresentação de uma solução digital com foco em performance, conversão e experiência do usuário. O projeto simula uma página de alta conversão, estruturada para captação de leads, apresentação de valor e direcionamento claro para ação.
 
-O projeto foi construído com tecnologias modernas e está preparado para deploy contínuo via Vercel.
+O sistema foi construído utilizando tecnologias modernas do ecossistema web e está preparado para deploy contínuo através da Vercel, integrado ao GitHub para atualização automática a cada alteração no código.
 
----
+## Tecnologias utilizadas
 
-## 🔥 Visão do projeto
+Vite, React, TypeScript, HTML5 e CSS3.
 
-Este projeto tem como objetivo simular uma landing page de alta conversão, com estrutura otimizada para captação de leads, apresentação de valor e direcionamento para ação.
+## Deploy
 
----
+O projeto está publicado em produção e pode ser acessado pelo link:
 
-## ⚙️ Tecnologias utilizadas
+https://scalle-x-site.vercel.app
 
-- Vite
-- React
-- TypeScript
-- HTML5
-- CSS3
+O deploy é feito de forma automática via Vercel sempre que há atualização na branch principal do repositório.
 
----
+Fluxo de deploy: GitHub → Vercel → Produção
 
-## 🌐 Deploy
+## Funcionalidades
 
-O projeto está publicado em produção:
+A aplicação conta com layout responsivo adaptado para dispositivos móveis e desktop, estrutura de seções voltada para apresentação clara da proposta, chamadas estratégicas para ação (CTA), simulação de funil de conversão e foco em performance e experiência do usuário.
 
-👉 https://scalle-x-site.vercel.app
+## Estrutura do projeto
 
-Deploy automático via Vercel conectado ao repositório GitHub.
+src/ contém os componentes principais da aplicação, além dos arquivos App.tsx, main.tsx e estilos globais em index.css.
 
----
+## Status do projeto
 
-## 🚀 Funcionalidades
+Projeto em produção, funcional e em constante evolução com melhorias contínuas de interface, experiência do usuário e otimização de conversão.
 
-- Layout responsivo (mobile / desktop)
-- Seções de apresentação estruturadas
-- CTA (Call to Action) estratégico
-- Simulação de funil de conversão
-- Interface otimizada para performance
+## Próximos passos
 
----
+Entre os próximos aprimoramentos estão melhorias de UX/UI, otimização de conversão, integração com formulários para captura de leads e implementação de domínio personalizado.
 
-## 📦 Estrutura do projeto
+## Autor
+
+Desenvolvido por Fabricio Lopes.
