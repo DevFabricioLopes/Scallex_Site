@@ -20,7 +20,7 @@ export default function Problems() {
   ];
 
   return (
-    <section id="dor" className="relative py-24 bg-[#050505] overflow-hidden">
+    <section id="dor" className="relative py-14 bg-[#050505] overflow-hidden">
       {/* Decorative cyber line details */}
       <div className="absolute top-0 right-0 w-1/3 h-[1px] bg-gradient-to-l from-transparent via-[#8A2EFF]/25 to-transparent" />
 

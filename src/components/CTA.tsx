@@ -63,7 +63,7 @@ Meus dados:
   };
 
   return (
-    <section id="cta-contact" className="relative py-24 bg-[#050505] overflow-hidden">
+    <section id="cta-contact" className="relative py-14 bg-[#050505] overflow-hidden">
       {/* Background radial highlight */}
       <div className="absolute inset-0 bg-radial-gradient from-[#8A2EFF]/10 via-transparent to-transparent pointer-events-none" />
       <div className="absolute bottom-0 left-0 right-0 h-44 bg-gradient-to-t from-[#8A2EFF]/5 to-transparent pointer-events-none" />

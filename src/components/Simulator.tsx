@@ -56,7 +56,7 @@ export default function Simulator() {
   };
 
   return (
-    <section id="simulador" className="relative py-24 bg-[#050505] overflow-hidden">
+    <section id="simulador" className="relative py-14 bg-[#050505] overflow-hidden">
       {/* Decorative grids and spots */}
       <div className="absolute top-1/4 left-1/2 -translate-x-1/2 w-[55rem] h-[30rem] bg-[#00D9FF]/5 rounded-full blur-[140px] pointer-events-none" />
 
@@ -255,7 +255,9 @@ export default function Simulator() {
                   </p>
                 </div>
                 <div className="text-xs text-gray-400 leading-normal max-w-xs">
-                  Sua equipe só fará o empacotamento. Nós cuidamos de toda a geração de etiquetas e despacho automatizado.
+                  Sua equipe fica responsável por etiquetas, empacotamento e envio ao ponto de coleta.
+                  <br />
+                  Nós cuidamos da estratégia e crescimento da sua empresa! 🚀
                 </div>
               </div>
             </div>

@@ -40,7 +40,7 @@ export default function Solution() {
   ];
 
   return (
-    <section id="solucao" className="relative py-24 bg-[#050505]/90 overflow-hidden">
+    <section id="solucao" className="relative py-14 bg-[#050505]/90 overflow-hidden">
       {/* Background neon elements */}
       <div className="absolute top-[30%] left-[-15%] w-96 h-96 bg-[#8A2EFF]/5 rounded-full blur-[120px] pointer-events-none" />
       <div className="absolute bottom-[20%] right-[-15%] w-96 h-96 bg-[#00D9FF]/5 rounded-full blur-[120px] pointer-events-none" />

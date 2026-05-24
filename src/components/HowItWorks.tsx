@@ -33,7 +33,7 @@ export default function HowItWorks() {
   ];
 
   return (
-    <section id="como-funciona" className="relative py-24 bg-[#050505]/95 overflow-hidden">
+    <section id="como-funciona" className="relative py-14 bg-[#050505]/95 overflow-hidden">
       {/* Decorative lines in deep black spaces */}
       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-3/4 h-[1px] bg-gradient-to-r from-transparent via-[#8A2EFF]/15 to-transparent pointer-events-none" />
 

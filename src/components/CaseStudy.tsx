@@ -11,7 +11,7 @@ export default function CaseStudy() {
   };
 
   return (
-    <section id="case" className="relative py-24 bg-[#050505] overflow-hidden">
+    <section id="case" className="relative py-14 bg-[#050505] overflow-hidden">
       {/* Visual background decorations */}
       <div className="absolute top-[20%] right-[-10%] w-[35rem] h-[35rem] bg-[#8A2EFF]/6 rounded-full blur-[130px] pointer-events-none" />
       <div className="absolute bottom-[20%] left-[-10%] w-[30rem] h-[30rem] bg-[#00D9FF]/6 rounded-full blur-[130px] pointer-events-none" />
